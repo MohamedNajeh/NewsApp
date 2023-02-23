@@ -29,6 +29,7 @@ The things you'll need in order to use the app and how to install them
 - [x] Generic Network layer using URLSession
 - [x] Monitor network status and observe when connection retrived
 - [x] MVVM Architicture pattern
+- [x] BottomSheet Transition
 
 ## Why MVVM ?
 ```
